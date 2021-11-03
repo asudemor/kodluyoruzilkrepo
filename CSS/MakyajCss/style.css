@@ -1,0 +1,38 @@
+h3 {
+    color: tomato;
+    text-align: center;
+    font-size: 28px;
+}
+
+h2 {
+    color: rgb(161, 40, 165);
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+p {
+    text-align: center;
+}
+
+div.menuler {
+    color: darkblue;
+    text-align: center;
+    font-size: 18px;
+}
+
+ul.b {
+    list-style-position: inside;
+    text-align: center;
+}
+
+ol.b {
+    list-style-position: inside;
+    text-align: center;
+}
+
+img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
